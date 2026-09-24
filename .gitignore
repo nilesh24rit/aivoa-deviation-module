@@ -1,0 +1,35 @@
+# Dependencies / build
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Secrets — NEVER commit these
+.env
+.env.*
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Assignment materials must not be published (per challenge rules) —
+# do NOT force-add these to any public repository:
+*.mp4
+*.pdf
+
+# Submission media / tooling — project source only
+*.webm
+*.zip
+*.m4a
+AIVOA-Submission/
+demo/
+docs/
+keep_awake.py
+sample-deviation.txt
+sample.deviation-report.txt
