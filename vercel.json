@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "https://aivoa-deviation-api.onrender.com/api/:path*" },
+    { "source": "/deviations", "destination": "/index.html" }
+  ]
+}

@@ -1,0 +1,16 @@
+.git
+**/.env
+**/.env.*
+**/.venv
+**/node_modules
+**/__pycache__
+**/*.pyc
+**/dist
+demo
+docs
+AIVOA-Submission
+*.mp4
+*.webm
+*.pdf
+*.zip
+keep_awake.py
